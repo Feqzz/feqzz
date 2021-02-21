@@ -1,5 +1,8 @@
-### Hello 👋 🏎️
+<a href="https://github.com/feqzz">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=feqzz&show_icons=true&line_height=15&count_private=true&theme=dark&hide_border=true&layout=compact" alt="GitHub Stats for Stian Onarheim" />
+</a>
 
+### Hello 👋 🏎️
 📫 How to reach me: mail@feqzz.no
 
 <!--
