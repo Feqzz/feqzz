@@ -1,9 +1,10 @@
-<a href="https://github.com/feqzz">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=feqzz&show_icons=true&line_height=15&count_private=true&theme=dark&hide_border=true&layout=compact" alt="GitHub Stats for Stian Onarheim" />
-</a>
-
 ### Hello 👋 🏎️
 📫 How to reach me: mail@feqzz.no
+
+## Checkour my tmux plugins!
+* [tmux-spotify-info](https://github.com/Feqzz/tmux-spotify-info)
+* [tmux-weather-info-yr](https://github.com/Feqzz/tmux-weather-info-yr)
+* [tmux-mpv-info](https://github.com/Feqzz/tmux-mpv-info)
 
 <!--
 **Feqzz/feqzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
