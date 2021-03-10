@@ -1,7 +1,7 @@
 ### Hello 👋 🏎️
 📫 How to reach me: mail@feqzz.no
 
-## Checkout my tmux plugins!
+## Check out my tmux plugins!
 * [tmux-spotify-info](https://github.com/Feqzz/tmux-spotify-info)
 * [tmux-weather-info-yr](https://github.com/Feqzz/tmux-weather-info-yr)
 * [tmux-mpv-info](https://github.com/Feqzz/tmux-mpv-info)
